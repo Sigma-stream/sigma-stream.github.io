@@ -1,0 +1,22 @@
+body {
+background-color: rgb(85, 85, 85);
+text-align: center;
+color: white;    
+}
+
+img {
+height: 100px;
+width: 100px; 
+}
+
+h1 {
+font-family: sans-serif;
+border: solid 0px;
+border-radius: 50px;
+text-align: center;
+}
+
+h2 {
+padding-bottom: 50px;
+font-family: sans-serif;
+}
